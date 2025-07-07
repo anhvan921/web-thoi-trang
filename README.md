@@ -63,3 +63,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # web-thoi-trang
 >>>>>>> 4833ff1edbc9c9df62b3a33f241dcfe56d032e0b
+## Team
+
+- Phạm Thị Vân Anh - 22010048
+
+- Nguyễn Thị Cẩm Tú - 22010230
+
+- TRần Thị Thùy Trang - 22010294
